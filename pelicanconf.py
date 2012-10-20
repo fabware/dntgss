@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = u"向灿"
-SITENAME = u"莫猜，Be accurate!"
-SITEURL = ''
+SITENAME = u"莫猜，Beaccurate!"
+SITEURL = 'http://www.dntgss.com'
 
 TIMEZONE = 'Asia/Shanghai'
 
