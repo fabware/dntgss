@@ -16,7 +16,7 @@ SSH_PORT=22
 SSH_USER=fabware
 SSH_TARGET_DIR=/home/fabware/webapps/dntgss
 
-DROPBOX_DIR=~/Dropbox/Public/
+DROPBOX_DIR=~/Dropbox/dntgss/
 
 help:
 	@echo 'Makefile for a pelican Web site                                        '
