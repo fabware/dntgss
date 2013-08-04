@@ -1,11 +1,9 @@
-《乔布斯传》读后感
-#####################
-
-:slug: read-about-steve-jobs
-:date: 2012-10-20 14:39
-:tags: 读书笔记
-:category: 读书笔记
-:author: 向灿
+title: 《乔布斯传》读后感
+slug: read-about-steve-jobs
+date: 2012-10-20 14:39
+tags: 读书笔记
+category: 读书笔记
+author: 火山
 
 
 乔布斯逝世一周年终于抽了3天时间把乔布斯传看完了，收获还是很多的。比花掉大量时间刷微博了解的乔布斯的内容有价值得多。
